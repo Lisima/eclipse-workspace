@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+C:\Users\Wiktoria\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3189401522.index
+2678143800.index
+1956490790.index
+3366961757.index
